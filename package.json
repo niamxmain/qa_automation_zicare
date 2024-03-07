@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "eslint-plugin-cypress": "^2.15.1",
+    "mochawesome": "^7.1.3"
+  }
+}
